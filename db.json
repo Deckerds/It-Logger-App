@@ -1,0 +1,68 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 008",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-08-26T12:21:53.271Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "Sarah Smith",
+      "date": "2020-08-26T12:22:00.849Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless down",
+      "attention": false,
+      "tech": "Greg Smith",
+      "date": "2020-08-26T10:57:25.064Z"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "Laptop repaired",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-08-25T18:01:08.935Z"
+    },
+    {
+      "id": 6,
+      "message": "New Problem in section 22",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-08-26T11:08:50.489Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Smith",
+      "id": 3
+    },
+    {
+      "firstName": "Tharuka",
+      "lastName": "Sandaru",
+      "id": 4
+    }
+  ]
+}
