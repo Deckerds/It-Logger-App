@@ -1,3 +1,6 @@
+# ITLOGGER
+> ITLOGGER app with React, React hooks, Redux with json-server for backend access.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
